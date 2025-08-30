@@ -16,7 +16,7 @@ A backend engineer who loves solving problems and collaborating to deliver relia
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000 PL/SQL-316192?style=for-the-badge&lostgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle PL/SQL-316192?style=for-the-badge&lostgresql&logoColor=white"/>
 </p>
 
 ---
