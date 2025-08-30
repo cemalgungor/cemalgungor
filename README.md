@@ -1,15 +1,13 @@
-<!-- Banner / Üst Görsel -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/00000000/000000000-illustration.gif" alt="banner" />
 </p>
 
 ---
 
-# Hi 👋, I'm Cemal Güngör
-I am a self-taught backend developer and engineer  
+# I'm Cemal Güngör
+A backend engineer who loves solving problems and collaborating to deliver reliable software solutions
 
 - 🔭 I’m currently working on **Java / Spring Boot / AI projects**  
-- 👯 I’m looking to collaborate on **backend systems & AI integrations**  
 - 💬 Ask me about **Java, Spring, PostgreSQL, Oracle ADF**  
 
 ---
